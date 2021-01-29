@@ -1,0 +1,58 @@
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
+Hubei,Mainland China,2020-02-16T23:53:01,58182,1696,6639
+Guangdong,Mainland China,2020-02-16T12:03:06,1316,2,465
+Henan,Mainland China,2020-02-16T13:53:03,1231,13,440
+Zhejiang,Mainland China,2020-02-16T09:33:02,1167,0,456
+Hunan,Mainland China,2020-02-16T13:13:04,1004,3,464
+Anhui,Mainland China,2020-02-16T08:33:02,962,6,255
+Jiangxi,Mainland China,2020-02-16T10:03:06,925,1,240
+Jiangsu,Mainland China,2020-02-16T09:33:02,617,0,218
+Chongqing,Mainland China,2020-02-16T23:53:01,551,5,207
+Shandong,Mainland China,2020-02-16T12:03:06,537,2,173
+Sichuan,Mainland China,2020-02-16T10:03:06,481,3,131
+Heilongjiang,Mainland China,2020-02-16T13:53:03,445,11,79
+Beijing,Mainland China,2020-02-16T10:03:06,380,4,108
+Diamond Princess cruise ship,Others,2020-02-16T03:43:02,355,0,0
+Shanghai,Mainland China,2020-02-16T02:53:02,328,1,140
+Hebei,Mainland China,2020-02-16T12:03:06,300,3,105
+Fujian,Mainland China,2020-02-16T12:03:06,287,0,82
+Guangxi,Mainland China,2020-02-16T12:03:06,237,2,49
+Shaanxi,Mainland China,2020-02-16T13:53:03,236,0,71
+Yunnan,Mainland China,2020-02-16T09:53:01,171,0,42
+Hainan,Mainland China,2020-02-16T12:03:06,162,4,52
+Guizhou,Mainland China,2020-02-16T09:13:09,144,1,46
+Shanxi,Mainland China,2020-02-16T23:53:01,129,0,50
+Tianjin,Mainland China,2020-02-16T12:23:02,124,3,45
+Liaoning,Mainland China,2020-02-16T12:03:06,121,1,40
+Gansu,Mainland China,2020-02-16T13:53:03,90,2,54
+Jilin,Mainland China,2020-02-16T10:03:06,89,1,30
+Xinjiang,Mainland China,2020-02-16T08:33:02,71,1,12
+Inner Mongolia,Mainland China,2020-02-16T08:33:02,70,0,8
+Ningxia,Mainland China,2020-02-15T08:43:03,70,0,33
+Hong Kong,Hong Kong,2020-02-16T09:53:01,57,1,2
+Taiwan,Taiwan,2020-02-16T11:23:06,20,1,2
+Qinghai,Mainland China,2020-02-15T08:43:03,18,0,13
+Macau,Macau,2020-02-16T12:03:06,10,0,5
+OtherProvince,China,2020-02-16T12:03:06,12705,71,4117
+,ForeignCountry,2020-02-16T17:43:03,339,3,109
+Hubei,Mainland China,02-16,56249,0,5623
+OtherProvince,China,02-16,12466,0,3676
+/,ForeignCountry,02-16,317,0,96
+Hubei,Mainland China,02-16,31728,0,2222
+OtherProvince,China,02-16,10778,0,1697
+/,ForeignCountry,02-16,257,0,27
+Hubei,Mainland China,02-16,31728,0,2222
+OtherProvince,China,02-16,10778,0,1697
+/,ForeignCountry,02-16,257,0,27
+Hubei,Mainland China,02-16,31728,0,2222
+OtherProvince,China,02-16,10778,0,1697
+/,ForeignCountry,02-16,257,0,27
+Hubei,Mainland China,02-16,31723,0,2222
+OtherProvince,China,02-16,10768,0,1696
+/,ForeignCountry,02-16,249,0,26
+Hubei,Mainland China,02-16,56257,0,5623
+OtherProvince,China,02-16,12474,0,3676
+/,ForeignCountry,02-16,325,0,96
+Hubei,Mainland China,02-16,54406,0,4775
+OtherProvince,China,02-16,12187,0,3205
+/,ForeignCountry,02-16,294,0,81

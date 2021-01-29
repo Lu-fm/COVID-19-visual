@@ -1,0 +1,49 @@
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
+Hubei,Mainland China,2020-02-11T23:33:02,33366,1068,2639
+Guangdong,Mainland China,2020-02-11T14:03:05,1177,1,212
+Zhejiang,Mainland China,2020-02-11T12:53:02,1117,0,270
+Henan,Mainland China,2020-02-11T14:03:05,1105,7,218
+Hunan,Mainland China,2020-02-11T12:53:02,912,1,247
+Anhui,Mainland China,2020-02-11T09:43:02,860,4,105
+Jiangxi,Mainland China,2020-02-11T14:03:05,804,1,128
+Jiangsu,Mainland China,2020-02-11T08:13:06,515,0,93
+Chongqing,Mainland China,2020-02-11T23:53:02,505,3,79
+Shandong,Mainland China,2020-02-11T11:23:04,487,1,80
+Sichuan,Mainland China,2020-02-11T11:23:04,417,1,85
+Heilongjiang,Mainland China,2020-02-11T11:23:04,360,8,28
+Beijing,Mainland China,2020-02-11T03:03:07,342,3,48
+Shanghai,Mainland China,2020-02-11T06:23:02,303,1,52
+Fujian,Mainland China,2020-02-11T14:03:05,267,0,45
+Hebei,Mainland China,2020-02-11T11:23:04,239,2,48
+Shaanxi,Mainland China,2020-02-11T06:03:16,219,0,32
+Guangxi,Mainland China,2020-02-11T11:23:04,215,1,33
+Yunnan,Mainland China,2020-02-11T09:23:04,153,0,20
+Hainan,Mainland China,2020-02-11T14:33:02,144,3,20
+Diamond Princess cruise ship,Others,2020-02-10T16:03:12,135,0,0
+Guizhou,Mainland China,2020-02-11T14:03:05,127,1,17
+Shanxi,Mainland China,2020-02-11T23:33:02,124,0,30
+Liaoning,Mainland China,2020-02-11T12:53:02,111,0,19
+Tianjin,Mainland China,2020-02-11T23:13:05,106,2,10
+Gansu,Mainland China,2020-02-11T15:23:04,86,2,24
+Jilin,Mainland China,2020-02-11T08:03:06,81,1,18
+Inner Mongolia,Mainland China,2020-02-10T02:43:05,58,0,5
+Xinjiang,Mainland China,2020-02-11T09:13:11,55,0,3
+Ningxia,Mainland China,2020-02-11T10:03:08,53,0,22
+Hong Kong,Hong Kong,2020-02-11T09:43:02,49,1,0
+Qinghai,Mainland China,2020-02-11T11:23:04,18,0,5
+Taiwan,Taiwan,2020-02-09T09:13:11,18,0,1
+Macau,Macau,2020-02-06T14:23:04,10,0,1
+OtherProvince,China,2020-02-06T14:23:04,11172,44,1998
+,ForeignCountry,2020-02-11T16:43:06,265,1,46
+Hubei,Mainland China,02-11,31728,0,2222
+OtherProvince,China,02-11,10778,0,1697
+/,ForeignCountry,02-11,257,0,27
+Hubei,Mainland China,02-11,31728,0,2222
+OtherProvince,China,02-11,10778,0,1697
+/,ForeignCountry,02-11,257,0,27
+Hubei,Mainland China,02-11,31728,0,2222
+OtherProvince,China,02-11,10778,0,1697
+/,ForeignCountry,02-11,257,0,27
+Hubei,Mainland China,02-11,31736,0,2222
+OtherProvince,China,02-11,10786,0,1697
+/,ForeignCountry,02-11,265,0,27

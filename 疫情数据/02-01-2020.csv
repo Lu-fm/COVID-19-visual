@@ -1,0 +1,30 @@
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
+Hubei,Mainland China,2/1/2020 11:53,7153,249,168
+Zhejiang,Mainland China,2/1/2020 10:53,599,0,21
+Guangdong,Mainland China,2/1/2020 14:23,535,0,14
+Henan,Mainland China,2/1/2020 1:52,422,2,3
+Hunan,Mainland China,2/1/2020 11:03,389,0,8
+Anhui,Mainland China,2/1/2020 13:33,297,0,5
+Jiangxi,Mainland China,2/1/2020 1:52,286,0,9
+Chongqing,Mainland China,2/1/2020 8:43,247,1,3
+Sichuan,Mainland China,2/1/2020 1:52,207,1,3
+Shandong,Mainland China,2/1/2020 7:51,206,0,3
+Jiangsu,Mainland China,2/1/2020 14:03,202,0,6
+Shanghai,Mainland China,2/1/2020 6:05,169,1,10
+Beijing,Mainland China,2/1/2020 9:17,168,1,9
+Fujian,Mainland China,2/1/2020 5:37,144,0,0
+Shaanxi,Mainland China,2/1/2020 5:37,101,0,0
+Guangxi,Mainland China,2/1/2020 1:52,100,0,2
+Hebei,Mainland China,2/1/2020 1:52,96,1,0
+Yunnan,Mainland China,2/1/2020 15:53,93,0,2
+Heilongjiang,Mainland China,2/1/2020 10:33,80,2,2
+Liaoning,Mainland China,2/1/2020 15:23,64,0,1
+Hainan,Mainland China,2/1/2020 8:43,62,1,1
+Shanxi,Mainland China,2/1/2020 1:52,47,0,1
+Tianjin,Mainland China,2/1/2020 15:43,41,0,0
+Gansu,Mainland China,2/1/2020 15:43,40,0,0
+Guizhou,Mainland China,1/31/2020 15:20,29,0,2
+Ningxia,Mainland China,2/1/2020 2:13,26,0,0
+Inner Mongolia,Mainland China,2/1/2020 5:37,23,0,1
+OtherProvince,China,2/1/2020 5:37,4673,10,106
+,ForeignCountry,2/1/2020 18:53,212,0,10

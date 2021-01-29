@@ -1,0 +1,37 @@
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
+Hubei,Mainland China,2020-02-07T23:43:02,24953,699,1115
+Guangdong,Mainland China,2020-02-07T10:13:06,1034,1,88
+Zhejiang,Mainland China,2020-02-07T11:33:11,1006,0,123
+Henan,Mainland China,2020-02-07T14:03:12,914,3,86
+Hunan,Mainland China,2020-02-07T11:33:11,772,0,112
+Anhui,Mainland China,2020-02-07T05:13:07,665,0,47
+Jiangxi,Mainland China,2020-02-07T01:23:02,661,0,45
+Chongqing,Mainland China,2020-02-07T23:33:02,426,2,31
+Jiangsu,Mainland China,2020-02-07T14:03:12,408,0,43
+Shandong,Mainland China,2020-02-07T11:33:11,386,0,37
+Sichuan,Mainland China,2020-02-07T08:23:09,344,1,42
+Beijing,Mainland China,2020-02-07T03:23:02,297,1,33
+Heilongjiang,Mainland China,2020-02-07T07:43:02,277,3,12
+Shanghai,Mainland China,2020-02-07T06:14:15,277,1,30
+Fujian,Mainland China,2020-02-07T13:23:03,224,0,20
+Shaanxi,Mainland China,2020-02-07T08:23:09,184,0,17
+Guangxi,Mainland China,2020-02-07T00:33:02,172,0,17
+Hebei,Mainland China,2020-02-07T12:03:04,172,1,22
+Yunnan,Mainland China,2020-02-07T23:23:04,138,0,12
+Hainan,Mainland China,2020-02-07T12:33:02,117,2,10
+Shanxi,Mainland China,2020-02-07T23:43:02,104,0,15
+Liaoning,Mainland China,2020-02-07T15:33:03,99,0,7
+Guizhou,Mainland China,2020-02-07T11:13:07,81,1,6
+Tianjin,Mainland China,2020-02-07T05:43:03,81,1,2
+Gansu,Mainland China,2020-02-07T02:33:06,67,0,9
+Jilin,Mainland China,2020-02-07T00:43:02,65,1,4
+Cruise Ship,Others,2020-02-07T16:33:03,61,0,0
+Inner Mongolia,Mainland China,2020-02-07T11:13:07,50,0,5
+Ningxia,Mainland China,2020-02-07T11:13:07,43,0,5
+Xinjiang,Mainland China,2020-02-07T01:43:02,39,0,0
+Hong Kong,Hong Kong,2020-02-07T11:53:02,25,1,0
+Qinghai,Mainland China,2020-02-06T02:13:15,18,0,3
+Taiwan,Taiwan,2020-02-06T15:03:04,16,0,1
+Macau,Macau,2020-02-06T14:23:04,10,0,1
+OtherProvince,China,2020-02-06T14:23:04,9233,19,885
+,ForeignCountry,2020-02-07T03:03:03,206,1,11

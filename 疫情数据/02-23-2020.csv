@@ -1,0 +1,63 @@
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
+Hubei,Mainland China,2020-02-23T11:33:03,64084,2346,15343
+Guangdong,Mainland China,2020-02-23T08:53:02,1342,6,755
+Henan,Mainland China,2020-02-23T10:23:02,1271,19,868
+Zhejiang,Mainland China,2020-02-23T13:43:02,1205,1,760
+Hunan,Mainland China,2020-02-23T10:33:03,1016,4,714
+Anhui,Mainland China,2020-02-23T10:53:02,989,6,637
+Jiangxi,Mainland China,2020-02-23T09:23:02,934,1,613
+Shandong,Mainland China,2020-02-23T11:33:03,754,4,321
+Jiangsu,Mainland China,2020-02-23T08:53:02,631,0,418
+Chongqing,Mainland China,2020-02-23T23:13:05,575,6,335
+Sichuan,Mainland China,2020-02-23T08:53:02,526,3,261
+Heilongjiang,Mainland China,2020-02-23T13:43:02,480,12,222
+Beijing,Mainland China,2020-02-23T01:13:13,399,4,189
+Shanghai,Mainland China,2020-02-23T03:13:07,335,3,249
+Hebei,Mainland China,2020-02-23T11:33:03,311,6,219
+Fujian,Mainland China,2020-02-23T10:33:03,293,1,170
+Guangxi,Mainland China,2020-02-23T10:33:03,249,2,106
+Shaanxi,Mainland China,2020-02-23T12:13:14,245,1,163
+Yunnan,Mainland China,2020-02-23T05:33:03,174,2,115
+Hainan,Mainland China,2020-02-23T23:23:03,168,5,106
+Guizhou,Mainland China,2020-02-23T12:43:02,146,2,102
+Tianjin,Mainland China,2020-02-23T12:43:02,135,3,81
+Shanxi,Mainland China,2020-02-23T23:03:08,132,0,88
+Gansu,Mainland China,2020-02-23T13:23:06,91,2,78
+Liaoning,Mainland China,2020-02-23T13:33:02,121,1,73
+Ningxia,Mainland China,2020-02-23T05:33:03,71,0,56
+Jilin,Mainland China,2020-02-23T12:43:02,91,1,54
+Taiwan,Taiwan,2020-02-23T09:53:02,28,1,2
+Qinghai,Mainland China,2020-02-21T04:43:02,18,0,18
+Macau,Macau,2020-02-20T02:13:19,10,0,6
+Xinjiang,Mainland China,2020-02-23T14:43:04,76,2,28
+Hong Kong,Hong Kong,2020-02-23T09:53:02,74,2,11
+Inner Mongolia,Mainland China,2020-02-23T09:43:02,75,0,27
+OtherProvince,China,2020-02-23T09:43:02,12965,100,7845
+,ForeignCountry,2020-02-23T23:33:07,1936,23,206
+Hubei,Mainland China,02-23,56249,0,5623
+OtherProvince,China,02-23,12466,0,3676
+/,ForeignCountry,02-23,317,0,96
+Hubei,Mainland China,02-23,31728,0,2222
+OtherProvince,China,02-23,10778,0,1697
+/,ForeignCountry,02-23,257,0,27
+Hubei,Mainland China,02-23,31728,0,2222
+OtherProvince,China,02-23,10778,0,1697
+/,ForeignCountry,02-23,257,0,27
+Hubei,Mainland China,02-23,62442,0,11788
+OtherProvince,China,02-23,12658,0,6227
+/,ForeignCountry,02-23,1099,0,162
+Hubei,Mainland China,02-23,62442,0,11788
+OtherProvince,China,02-23,12658,0,6227
+/,ForeignCountry,02-23,1099,0,162
+Hubei,Mainland China,02-23,62442,0,11788
+OtherProvince,China,02-23,12658,0,6227
+/,ForeignCountry,02-23,1099,0,162
+Hubei,Mainland China,02-23,62439,0,11789
+OtherProvince,China,02-23,12654,0,6228
+/,ForeignCountry,02-23,1095,0,163
+Hubei,Mainland China,02-23,62439,0,11789
+OtherProvince,China,02-23,12654,0,6228
+/,ForeignCountry,02-23,1095,0,163
+Hubei,Mainland China,02-23,58170,0,6637
+OtherProvince,China,02-23,12694,0,4115
+/,ForeignCountry,02-23,330,0,107

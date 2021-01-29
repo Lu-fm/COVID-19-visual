@@ -1,0 +1,49 @@
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered
+Hubei,Mainland China,2020-02-14T23:33:02,54406,1457,4774
+Guangdong,Mainland China,2020-02-14T12:53:02,1261,2,362
+Henan,Mainland China,2020-02-14T12:53:02,1184,11,357
+Zhejiang,Mainland China,2020-02-14T14:13:15,1155,0,403
+Hunan,Mainland China,2020-02-14T09:23:04,988,2,364
+Anhui,Mainland China,2020-02-14T12:53:02,934,6,193
+Jiangxi,Mainland China,2020-02-14T01:13:06,900,1,187
+Jiangsu,Mainland China,2020-02-14T10:03:03,593,0,157
+Chongqing,Mainland China,2020-02-14T23:33:02,537,5,152
+Shandong,Mainland China,2020-02-14T11:13:22,523,2,136
+Sichuan,Mainland China,2020-02-14T11:13:22,463,1,114
+Heilongjiang,Mainland China,2020-02-14T13:23:07,419,11,47
+Beijing,Mainland China,2020-02-14T06:33:02,372,3,80
+Shanghai,Mainland China,2020-02-14T04:13:11,318,1,90
+Hebei,Mainland China,2020-02-14T11:13:22,283,3,87
+Fujian,Mainland China,2020-02-14T11:13:22,281,0,63
+Shaanxi,Mainland China,2020-02-14T12:53:02,230,0,54
+Guangxi,Mainland China,2020-02-14T15:23:02,226,2,36
+Diamond Princess cruise ship,Others,2020-02-14T00:13:23,218,0,0
+Yunnan,Mainland China,2020-02-14T12:53:02,162,0,36
+Hainan,Mainland China,2020-02-14T15:23:02,159,4,43
+Guizhou,Mainland China,2020-02-14T01:53:02,140,1,28
+Shanxi,Mainland China,2020-02-14T23:23:04,127,0,38
+Tianjin,Mainland China,2020-02-14T11:13:22,120,3,31
+Liaoning,Mainland China,2020-02-14T15:23:02,119,1,29
+Gansu,Mainland China,2020-02-13T15:53:03,90,2,39
+Jilin,Mainland China,2020-02-14T00:43:02,86,1,25
+Ningxia,Mainland China,2020-02-14T01:43:02,67,0,24
+Inner Mongolia,Mainland China,2020-02-14T02:03:08,65,0,6
+Xinjiang,Mainland China,2020-02-14T01:13:06,65,1,6
+Hong Kong,Hong Kong,2020-02-14T09:03:12,56,1,1
+Taiwan,Taiwan,2020-02-14T02:13:06,18,0,2
+Qinghai,Mainland China,2020-02-13T08:43:08,18,0,11
+Macau,Macau,2020-02-13T14:13:06,10,0,3
+OtherProvince,China,2020-02-13T14:13:06,12187,64,3204
+,ForeignCountry,2020-02-14T12:43:02,294,2,80
+Hubei,Mainland China,02-14,31728,0,2222
+OtherProvince,China,02-14,10778,0,1697
+/,ForeignCountry,02-14,257,0,27
+Hubei,Mainland China,02-14,31728,0,2222
+OtherProvince,China,02-14,10778,0,1697
+/,ForeignCountry,02-14,257,0,27
+Hubei,Mainland China,02-14,31728,0,2222
+OtherProvince,China,02-14,10778,0,1697
+/,ForeignCountry,02-14,257,0,27
+Hubei,Mainland China,02-14,31725,0,2222
+OtherProvince,China,02-14,10773,0,1697
+/,ForeignCountry,02-14,251,0,27
